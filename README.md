@@ -1,3 +1,5 @@
+# :sparkling_heart: Olá! Sejam bem-vindes ao meu GitHub! Eu sou [Alice](https://liceferreira.github.io)
+
 # 💫 Sobre mim:
 "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched c-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain.[...]."<br><br>Ela/Dela 🏳️‍⚧️<br>Estou estudando Desenvolvimento Web na TRYBE<br>Estou aprendendo HTML, CSS, JS e React<br>Posso falar por horas sobre Animes, Filmes, Metal Gear, Memes e RPG de Mesa<br>Amo filmes de terror mas tenho pavor de assistir
 
